@@ -1,0 +1,9 @@
+AMERICANAS	      AMAZON VÍDEO             GMAIL
+  		      NOME                     NOME PROPRIO 
+NOME		      E-MAIL	               APELIDO
+GENERO		      SENHA                    NOME DE ULTILIZADOR
+DATA DE NASCIMENTO    CONFIRMAÇÃO DE SENHA     SENHA
+CPF 					       CONFIRMAR SENHA	
+TELEFONE  				       
+E-MAIL
+SENHA
