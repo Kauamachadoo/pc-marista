@@ -1,35 +1,32 @@
  
 
-    body{ background-color: LightBlue;
-                                       } 
+body{ 
+      text-align: cente;
+      background-color: LightBlue;
+  } 
     <style>
-
-    form{ font-family: Lucida Console;
+    
+       form{ 
+          font-family: Lucida Console;
           font-size: 80%
-                                       }   
-  h1{
-    background-color: lemonchiffon;
-    font-family: cursive;
-    text-align: center;
-    color: black;
-                                         }
-  p{
-    text-align: center;
-    text-align: left;
-    font-family: Lucida Console;
-    font-size: 190%
-                                       }
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        user-select: none;
-      }
-
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
+       }   
+         h1{
+            background-color: lemonchiffon;
+            font-family: cursive;
+            text-align: center;
+            color: black;
+           }
+             p{
+                text-align: center;
+                text-align: left;
+                font-family: Lucida Console;
+                font-size: 190%
+              }
+                  .bd-placeholder-img {
+                    font-size: 1.125rem;
+                    text-anchor: middle;
+                    -webkit-user-select: none;
+                    -moz-user-select: none;
+                    user-select: none;
+                   }
     </style>
